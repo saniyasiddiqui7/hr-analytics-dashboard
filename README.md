@@ -62,16 +62,12 @@ Key steps performed:
 
 ---
 
-## 🎥 Dashboard Demo
-[▶️ Watch Demo Video](hr_dashboard_demo.mp4)
-
 ---
 
 ## 📁 Project Files
 - 📊 [Download Dashboard (.pbix)](HR_Analytics_Dashboard.pbix)  
 - 📂 [Download Dataset](HR_Analytics_Data.xlsx)  
-- 🖼️ [View Dashboard Image](hr_dashboard_overview.png)  
-- 🎥 [Watch Demo Video](hr_dashboard_demo.mp4)  
+- 🖼️ [View Dashboard Image](hr_dashboard_overview.png)   
 
 ---
 
