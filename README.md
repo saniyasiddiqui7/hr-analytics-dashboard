@@ -1,6 +1,6 @@
 # 🧠 HR Analytics Dashboard | Power BI
 
-> Transforming raw HR data using Power Query into actionable insights to understand employee attrition and workforce trends.
+> Transforming raw HR data using Power BI into actionable insights to understand employee attrition and workforce trends.
 
 ---
 
